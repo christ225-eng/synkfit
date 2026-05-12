@@ -2,7 +2,7 @@ function FinalCTA() {
   return (
     <section className="final-cta" id="cta">
       <span className="section-tag">Passer à l'action</span>
-      <h2>Entrez dans une nouvelle génération d'entraînement.</h2>
+      <h2>Entrez dans une nouvelle <span>génération d'entraînement.</span></h2>
       <p>
         Rejoignez les premiers sportifs à découvrir SynkFit. Recevez en avant-première
         les informations sur la technologie et soyez alerté dès le lancement.

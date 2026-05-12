@@ -38,7 +38,7 @@ function Reassurance() {
     <section className="reassurance" id="reassurance">
       <div className="section-header">
         <span className="section-tag">Ils en parlent</span>
-        <h2>Une expérience pensée pour inspirer confiance</h2>
+        <h2>Une expérience pensée pour <span>inspirer confiance.</span></h2>
         <p className="section-text">
           Athlètes, coachs et passionnés témoignent de la fiabilité, du confort
           et de l'utilité réelle de SynkFit.

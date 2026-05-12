@@ -67,7 +67,7 @@ function Features() {
     <section className="features" id="features">
       <div className="section-header">
         <span className="section-tag">Fonctionnalités</span>
-        <h2>Une technologie pensée pour les sportifs exigeants</h2>
+        <h2>Une technologie pensée pour les <span>sportifs exigeants.</span></h2>
         <p className="section-text">
           SynkFit transforme chaque sprint en données utiles pour mieux comprendre
           votre effort et améliorer vos performances.

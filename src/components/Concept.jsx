@@ -3,18 +3,29 @@ function Concept() {
     <section className="concept" id="concept">
       <div className="concept-left">
         <span className="section-tag">Le concept</span>
-        <h2>Comprendre son corps pour mieux performer.</h2>
-        <p style={{ marginTop: 20, color: "var(--muted)", lineHeight: 1.75, fontSize: 16 }}>
+        <h2>
+          Comprendre son corps<br />
+          pour mieux <span>performer.</span>
+        </h2>
+        <p className="concept-intro">
           Une nouvelle génération d'entraînement où chaque foulée devient une
           donnée actionnable.
         </p>
+
+        <div className="concept-image">
+          <img
+            src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&w=1400&auto=format&fit=crop"
+            alt="Athlète en course explosive"
+          />
+          <span className="concept-image-caption">Sprint · Live data</span>
+        </div>
       </div>
 
       <div className="concept-right">
         <p>
-          SynkFit ne vend pas seulement une chaussure de sport. La marque propose
-          une nouvelle manière de s'entraîner : relier l'effort physique à une
-          lecture claire et instantanée des données du corps.
+          SynkFit ne vend pas seulement une chaussure de sport. La marque
+          propose une nouvelle manière de s'entraîner : relier l'effort physique
+          à une lecture claire et instantanée des données du corps.
         </p>
 
         <div className="concept-steps">

@@ -36,7 +36,7 @@ function Contact() {
     <section className="contact" id="contact">
       <div className="contact-left">
         <span className="section-tag">Contact</span>
-        <h2>Restez connecté au lancement de SynkFit</h2>
+        <h2>Restez connecté au <span>lancement de SynkFit.</span></h2>
         <p className="section-text">
           Recevez les nouveautés, le freebie de présentation et les premières
           informations sur la sortie de la chaussure intelligente.
