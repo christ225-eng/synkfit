@@ -44,7 +44,7 @@ function Hero() {
       <div className="hero-visual">
         <div className="hero-image-card">
           <img
-            src="https://plus.unsplash.com/premium_photo-1672046218369-67e12ed1c364?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://plus.unsplash.com/premium_photo-1770544873561-aebddbed4e23?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Les chaussures de sport SynkFit en action, avec des données de fréquence cardiaque affichées en temps réel."
           />
 
